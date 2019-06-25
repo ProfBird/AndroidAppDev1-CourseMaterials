@@ -1,4 +1,5 @@
-# Android App Development 1
+# Android App Development with Java
+## First term
 
 ## Course materials
 
