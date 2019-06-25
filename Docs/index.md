@@ -2,8 +2,8 @@
 
 # Course Outline
 
-<!--- [Getting Started](https://lcc-cit.github.io/CIS195-CourseMaterials/GettingStarted.pdf) -->
-[Syllabus](https://lcc-cit.github.io/CIS195-CourseMaterials/CIS195_Syllabus.html)
+
+[Syllabus](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Syllabus.html)
 <!--- [Useful Links](https://lcc-cit.github.io/CIS195-CourseMaterials/CIS195_References.html) -->
 
 [Course Materials on GitHub](https://github.com/ProfBird/AndroidAppDev1-Java-CourseMaterials)
@@ -11,20 +11,37 @@
 
 Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-android-programming-2nd-edition-detail) 2nd Ed. by Joel Murach, 2015, Murach,  ISBN 978-1-890774-93-6
 
-## 1. Intro to HTML
+## Topics
 
-- Objectives
-- Lecture Notes
-  - [Intro to the Course](LessonPlans/CIS195-LP-W01-D1-IntroToCourse.html)
-  - [Basic HTML Elements](LessonPlans/CIS195-LP-W01-D2-BasicHtmlElements.html)
+1. [Intro to App Development](#intro-to-app-development)
+2. [Activity Lifecycle](#activity-lifecycle)
+3. [Menus and Themes](#menus-and-themes)
+4. [Multiscreen Apps](#multiscreen-apps)
+5. [Fragments](#fragments)
+6. [Asynch Tasks](#asynch-tasks)
+7. [List Views](#list-views)
+8. [SQLite Databases](sqlite-databases)
+9. [Consuming Web Services](#consuming-web-services)
+10. [Geolocation](#geolocation)
+
+
+
+## Intro to App Development
+
+- Slides
+  - [Intro to Mobile App Development](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/1-Intro-1-Intro.pptx)
+  - [Your First App: Creating the UI](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/1-Intro-1-FirstApp.pptx)
+  - Your First App: Writing the Code
+  - Your First App: More Pieces
+  - Your First App: Debugging
 - Examples
-  - [My Oregon Page](https://lcc-cit.github.io/CIS195-Demos/Unit01/OregonWebSite)  [Download zip file](https://drive.google.com/a/lanecc.edu/file/d/1g_M09Z0ga_gS4-6-WweSI2QPG_iVpUwX/view?usp=sharing)
-  - [My Demo Page](https://lcc-cit.github.io/CIS195-Demos/Week1/Demo1.html)
+  - 
+  - 
 - Lab Assignment
   - [Lab 1 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab1Instructions-PersonalBio.pdf)
   - [Lab 1 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab01Rubric_CS195.html)
 
-## 2. More on Creating Web Pages with HTML
+## Activity Lifecycle
 
 - Objectives
 
@@ -47,7 +64,7 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
   - [Lab 2 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab02/Lab2Instructions_W18.pdf)
   - [Lab 2 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab02/Lab2Rubric_CS195.html)
 
-## 3. Developing a Web Site
+## Menus and Themes
 
 - Textbook
 
@@ -67,7 +84,7 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Lab 3 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab03/Lab3Instructions_W18.pdf)
   - [Lab 3 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab03/Lab3Rubric_CS195.html)
 
-## 4. Designing a Page with CSS 
+## Multiscreen Apps
 
 - Textbook
 
@@ -87,14 +104,16 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Lab 4 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab04/Lab4Instructions_W18.pdf)
   - [Lab 4 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab04/Lab4Rubric_CS195.html)
 
-## 5. Midterm
+## Fragments
 
 - Lecture Notes
 
 - - [Publishing to a Web Server, Review](https://lcc-cit.github.io/CIS195-CourseMaterials/LessonPlans/CIS195-LP-W05-D1-UploadToWebServer+Review)
   - [How to upload your site to citstudent](https://lcc-cit.github.io/CIS195-CourseMaterials/Lessons/UploadingWebSites.html)
 
-## 6. Page Layout with CSS
+## Getting Data from the Internet
+
+(Reading XML files + Asynch Tasks)
 
 - Textbook
 
@@ -119,7 +138,7 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Lab 5 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab05/Lab5Instructions.pdf)
   - [Lab 5 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab05/Lab05Rubric.html)
 
-## 7. HTML Tables
+## List Views
 
 - Textbook
 
@@ -138,7 +157,7 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Lab 6 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab06/Lab6Instructions.pdf)
   - [Lab 6 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab06/Lab06Rubric.html)
 
-## 8. HTML Forms for User Input
+## SQLite Databases
 
 - Textbook
 
@@ -156,7 +175,7 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Lab 7 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab07/Lab7Instructions.pdf)
   - [Lab 7 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab07/Lab07Rubric.html)
 
-## 9. Multimedia for the Web
+## Consuming Web Services
 
 - Textbook
 
@@ -172,7 +191,7 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Lab 8 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab08/Lab8Instructions.pdf)
   - [Lab 8 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab08/Lab08Rubric.html)
 
-## 10. 1 Review and Term Project
+## Geolocation
 
 - Lecture Notes
 
@@ -183,20 +202,6 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - - [Term Project Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/TermProject/CIS195TermProject.pdf)
   - [Term Project Code Review Form](https://lcc-cit.github.io/CIS195-CourseMaterials/TermProject/TermProjectCodeReview.docx)
 
-## 10.2 (Optional) Advanced CSS
+## 
 
-- Textbook
-
-- - Carey, Tutorial 8: Enhancing a Web Site with Advanced CSS
-
-- Lecture Notes
-
-- - [Advanced CSS](https://lcc-cit.github.io/CIS195-CourseMaterials/LessonPlans/CIS195-LP-W10-D1-AdvancedCSS.html)
-
-- Lab Assignment
-
-- - [Lab 1 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab1Instructions-PersonalBio.pdf)
-
-## 11.  Final Assessment
-
-Written by [Brian Bird](https://profbird.online), winter 2019.
+Written by [Brian Bird](https://profbird.online), summer 2019.
