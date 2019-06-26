@@ -6,8 +6,8 @@
 [Syllabus](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Syllabus.html)
 <!--- [Useful Links](https://lcc-cit.github.io/CIS195-CourseMaterials/CIS195_References.html) -->
 
-[Course Materials on GitHub](https://github.com/ProfBird/AndroidAppDev1-Java-CourseMaterials)
-[Example Code on GitHub](https://github.com/ProfBird/AndroidAppExamples-Java)
+[Course Material Repository](https://github.com/ProfBird/AndroidAppDev1-Java-CourseMaterials)
+[Example Code Repository](https://github.com/ProfBird/AndroidAppExamples-Java)  
 
 Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-android-programming-2nd-edition-detail) 2nd Ed. by Joel Murach, 2015, Murach,  ISBN 978-1-890774-93-6
 
@@ -39,10 +39,10 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
   - [Your First App: Creating the UI](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-1-FirstApp.pptx)
   - [Your First App: Writing the Code](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-3-FirstAppCode.pptx)
 - Examples
-  - [Rock, Paper, Scissors Game—Single Activity](https://github.com/UO-CIS/CIS399AndroidDemos/tree/master/RockPaperScissors-SingleActivity)
+  - [Rock, Paper, Scissors Game—Single Activity](https://github.com/ProfBird/AndroidAppExamples-Java/tree/master/RockPaperScissors-SingleActivity)
 - Lab Assignment
-  - [Lab 1: Click Counter--Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/Labs/Lab01/Lab1Instructions-ClickCounter.html)
-  - [Lab 1 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/Labs/Lab01/Lab1Rubric.htm)
+  - [Lab 1: Click Counter--Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Instructions-ClickCounter.html)
+  - [Lab 1 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Rubric.html)
 
 ## Activity Lifecycle
 
