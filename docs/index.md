@@ -30,22 +30,25 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 
 - Reading
   - Chapters 1–3 in Murach
+    (Selected parts of 3?)
   - [Kantar World Panel--iOS vs  Android users](https://www.kantarworldpanel.com/global/smartphone-os-market-share/intro)
-  - [Statista—iOS vs. Android market share]( https://www.statista.com/statistics/266572/market-share-held-by-smartphone-platforms-in-the-united-states/)
+  - [Statista—iOS vs. Android market share](https://www.statista.com/statistics/266572/market-share-held-by-smartphone-platforms-in-the-united-states/)
+  - [Building a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
 - Slides
-  - [Intro to Mobile App Development](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/1-Intro-1-Intro.pptx)
-  - [Your First App: Creating the UI](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/1-Intro-1-FirstApp.pptx)
-  - Your First App: Writing the Code
+  - [Intro to Mobile App Development](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-1-Intro.pptx)
+  - [Your First App: Creating the UI](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-1-FirstApp.pptx)
+  - [Your First App: Writing the Code](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-3-FirstAppCode.pptx)
 - Examples
   - [Rock, Paper, Scissors Game—Single Activity](https://github.com/UO-CIS/CIS399AndroidDemos/tree/master/RockPaperScissors-SingleActivity)
 - Lab Assignment
-  - [Lab 1 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab1Instructions-PersonalBio.pdf)
-  - [Lab 1 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab01Rubric_CS195.html)
+  - [Lab 1: Click Counter--Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/Labs/Lab01/Lab1Instructions-ClickCounter.html)
+  - [Lab 1 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/Labs/Lab01/Lab1Rubric.htm)
 
 ## Activity Lifecycle
 
 - Reading
-- Chapter 4 in Murach
+  - Selected parts of Ch. 3 (lifecycle)?
+  - Chapter 4 in Murach
 - Slides
   - Your First App: Lifecycle and More
   - Your First App: Debugging
