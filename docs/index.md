@@ -57,29 +57,17 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 Single screen Pig game with just a portrait layout
   - [Lab 2 Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Instructions.pdf)
   - Dice images to use in the game:  [DieImages.zip](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/DieImages.zip)
-  - Example of a finished Pig game: [pig-v1-release-5.apk](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/pig-v1-release-5.apk)  
-    Download this file, then drag and drop it onto your emulator to install it.
+  - Example of a finished Pig game: [zipped pig game apk](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/pig-v1-release-5-apk.zip)  
+    Download this file, unzip it, then drag and drop the apk file onto your emulator to install it.
   - [Lab 2 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Rubric.docx)
 
 ## Menus and Themes
 
 - Textbook
-
-- - Carey, Tutorial 2: Developing a Web Site
-
+- Carey, Tutorial 2: Developing a Web Site
 - Lecture Notes
-
-- - [Paths and Links](https://lcc-cit.github.io/CIS195-CourseMaterials//LessonPlans/CIS195-LP-W03-D1-Paths+Links.html)
-  - [Image Maps - Not finished yet](https://lcc-cit.github.io/CIS195-CourseMaterials//LessonPlans/CIS195-LP-W03-D1-Paths+Links.html)
-
 - Example
-
-- - [Guide to South India](https://lcc-cit.github.io/CIS195-Demos/Unit02/Finished/Index.htm)
-
 - Lab Assignment
-
-- - [Lab 3 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab03/Lab3Instructions_W18.pdf)
-  - [Lab 3 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab03/Lab3Rubric_CS195.html)
 
 ## Multiscreen Apps
 
@@ -162,15 +150,10 @@ Single screen Pig game with just a portrait layout
 
 - Lecture Notes
 
-- - [Forms - Part 1
-    ](https://lcc-cit.github.io/CIS195-CourseMaterials/LessonPlans/CIS195-LP-W08-D1-Forms.html)
-  - [Forms - Part 2
-    ](https://lcc-cit.github.io/CIS195-CourseMaterials/LessonPlans/CIS195-LP-W08-D2-Forms.html)
-
+- - https://lcc-cit.github.io/CIS195-CourseMaterials/LessonPlans/CIS195-LP-W08-D2-Forms.html)
+  
 - Lab Assignment
 
-- - [Lab 7 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab07/Lab7Instructions.pdf)
-  - [Lab 7 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab07/Lab07Rubric.html)
 
 ## Consuming Web Services
 
