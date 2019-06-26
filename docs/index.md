@@ -41,7 +41,8 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - Examples
   - [Rock, Paper, Scissors Game—Single Activity](https://github.com/ProfBird/AndroidAppExamples-Java/tree/master/RockPaperScissors-SingleActivity)
 - Lab Assignment
-  - [Lab 1: Click Counter--Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Instructions-ClickCounter.html)
+  Click counter—a single activity app
+  - [Lab 1: Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Instructions-ClickCounter.html)
   - [Lab 1 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Rubric.html)
 
 ## Activity Lifecycle
@@ -50,15 +51,15 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
   - Selected parts of Ch. 3 (lifecycle)?
   - Chapter 4 in Murach
 - Slides
-  - Your First App: Lifecycle and More
-  - Your First App: Debugging
-- Examples
-  - [Chennai web page](https://lcc-cit.github.io/CIS195-Demos/Unit01/Chennai/) — [Source code](https://github.com/LCC-CIT/CIS195-Demos/blob/master/Unit01/Chennai/index.html)
-  - [Chennai Area web page](https://lcc-cit.github.io/CIS195-Demos/Unit01/ChennaiArea/) — [Source code](https://github.com/LCC-CIT/CIS195-Demos/blob/master/Unit01/ChennaiArea/index.html)
+  - [Your First App: Lifecycle and More](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/.pptx)
+  - [Your First App: Debugging](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-5-Debugging.pptx)
 - Lab Assignment
-
-  - [Lab 2 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab02/Lab2Instructions_W18.pdf)
-  - [Lab 2 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab02/Lab2Rubric_CS195.html)
+Single screen Pig game with just a portrait layout
+  - [Lab 2 Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Instructions.pdf)
+  - Dice images to use in the game:  [DieImages.zip](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/DieImages.zip)
+  - Example of a finished Pig game: [pig-v1-release-5.apk](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/pig-v1-release-5.apk)
+    Download this file, then drag and drop it onto your emulator to install it.
+  - [Lab 2 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Rubric.docx)
 
 ## Menus and Themes
 
