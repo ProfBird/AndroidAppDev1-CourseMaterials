@@ -28,37 +28,30 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 
 ## Intro to App Development
 
+- Reading
+  - Chapters 1–3 in Murach
+  - [Kantar World Panel--iOS vs  Android users](https://www.kantarworldpanel.com/global/smartphone-os-market-share/intro)
+  - [Statista—iOS vs. Android market share]( https://www.statista.com/statistics/266572/market-share-held-by-smartphone-platforms-in-the-united-states/)
 - Slides
   - [Intro to Mobile App Development](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/1-Intro-1-Intro.pptx)
   - [Your First App: Creating the UI](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/1-Intro-1-FirstApp.pptx)
   - Your First App: Writing the Code
-  - Your First App: More Pieces
-  - Your First App: Debugging
 - Examples
-  - 
-  - 
+  - [Rock, Paper, Scissors Game—Single Activity](https://github.com/UO-CIS/CIS399AndroidDemos/tree/master/RockPaperScissors-SingleActivity)
 - Lab Assignment
   - [Lab 1 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab1Instructions-PersonalBio.pdf)
   - [Lab 1 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab01/Lab01Rubric_CS195.html)
 
 ## Activity Lifecycle
 
-- Objectives
-
-- Textbook Reading
-
-- - Carey, Tutorial 1: Getting Started with HTML5
-
-- Lecture Notes
-
-- - [More HTML](https://lcc-cit.github.io/CIS195-CourseMaterials//LessonPlans/CIS195-LP-W02-D1-IntroToHtml.html)
-  - [Even More HTML](https://lcc-cit.github.io/CIS195-CourseMaterials//LessonPlans/CIS195-LP-W02-D2-MoreBasicHtml.html)
-
+- Reading
+- Chapter 4 in Murach
+- Slides
+  - Your First App: Lifecycle and More
+  - Your First App: Debugging
 - Examples
-
   - [Chennai web page](https://lcc-cit.github.io/CIS195-Demos/Unit01/Chennai/) — [Source code](https://github.com/LCC-CIT/CIS195-Demos/blob/master/Unit01/Chennai/index.html)
   - [Chennai Area web page](https://lcc-cit.github.io/CIS195-Demos/Unit01/ChennaiArea/) — [Source code](https://github.com/LCC-CIT/CIS195-Demos/blob/master/Unit01/ChennaiArea/index.html)
-
 - Lab Assignment
 
   - [Lab 2 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab02/Lab2Instructions_W18.pdf)
