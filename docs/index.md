@@ -51,13 +51,13 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
   - Selected parts of Ch. 3 (lifecycle)?
   - Chapter 4 in Murach
 - Slides
-  - [Your First App: Lifecycle and More](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/.pptx)
+  - [Your First App: Lifecycle and More](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-4-FirstAppCode+More.pptx)
   - [Your First App: Debugging](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-5-Debugging.pptx)
 - Lab Assignment
 Single screen Pig game with just a portrait layout
   - [Lab 2 Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Instructions.pdf)
   - Dice images to use in the game:  [DieImages.zip](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/DieImages.zip)
-  - Example of a finished Pig game: [pig-v1-release-5.apk](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/pig-v1-release-5.apk)
+  - Example of a finished Pig game: [pig-v1-release-5.apk](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/pig-v1-release-5.apk)  
     Download this file, then drag and drop it onto your emulator to install it.
   - [Lab 2 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Rubric.docx)
 
