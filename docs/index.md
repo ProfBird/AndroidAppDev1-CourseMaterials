@@ -13,27 +13,41 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 
 ## Topics
 
-1. [Intro to App Development](#intro-to-app-development)
-2. [Activity Lifecycle](#activity-lifecycle)
-3. [Menus and Themes](#menus-and-themes)
-4. [Multiscreen Apps](#multiscreen-apps)
-5. [Fragments](#fragments)
-6. [Asynch Tasks](#asynch-tasks)
-7. [List Views](#list-views)
-8. [SQLite Databases](sqlite-databases)
-9. [Consuming Web Services](#consuming-web-services)
-10. [Geolocation](#geolocation)
+1. [Intro to App Development](#1.-intro-to-app-development)
+2. [Activity Lifecycle](#2.-activity-lifecycle)
+3. [Menus and Themes](#3.-menus-and-themes)
+4. [Multiscreen Apps](#4.-multiscreen-apps)
+5. [Fragments](#5.-fragments)
+6. [Asynch Tasks](#6.-asynch-tasks)
+7. [List Views](#7.-list-views)
+8. [SQLite Databases](#8.-sqlite-databases)
+9. [Consuming Web Services](#9.-consuming-web-services)
+10. [Geolocation](#10.-geolocation)
 
 
 
-## Intro to App Development
+## 1. Intro to App Development
 
+- Objectives
+  - Understand mobile development issues
+  - Install and use Android Studio
+  - Build an app
+    - Understand app project structure
+    - UI: XML Layout files, ConstraintLayout, Widgets
+    - Code: subclass Activity, override onCreate, use an event listener
 - Reading
-  - Chapters 1–3 in Murach
+  - Textbook Chapters 1–3
     (Selected parts of 3?)
-  - [Kantar World Panel--iOS vs  Android users](https://www.kantarworldpanel.com/global/smartphone-os-market-share/intro)
-  - [Statista—iOS vs. Android market share](https://www.statista.com/statistics/266572/market-share-held-by-smartphone-platforms-in-the-united-states/)
-  - [Building a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
+  - Android vs. iOS market share
+    - [Kantar World Panel--iOS vs  Android users](https://www.kantarworldpanel.com/global/smartphone-os-market-share/intro)
+    - [Statista--iOS vs. Android market share](https://www.statista.com/statistics/266572/market-share-held-by-smartphone-platforms-in-the-united-states/)
+  - UI Layout
+    - [Building a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
+  - Java programming
+    - [Official Java Tutorials](https://docs.oracle.com/javase/tutorial/)
+    - [Inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
+      - [Overriding base class methods](https://docs.oracle.com/javase/tutorial/java/IandI/override.html)
+      - [Interfaces](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html)
 - Slides
   - [Intro to Mobile App Development](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-1-Intro.pptx)
   - [Your First App: Creating the UI](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-1-FirstApp.pptx)
@@ -45,11 +59,15 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
   - [Lab 1: Instructions](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Instructions-ClickCounter.html)
   - [Lab 1 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab01/Lab1Rubric.html)
 
-## Activity Lifecycle
+## 2. Activity Lifecycle
 
+- Objectives
+  - Understand the activity lifecycle
+  - Save activity state
+  - Debug effectively
 - Reading
   - Selected parts of Ch. 3 (lifecycle)?
-  - Chapter 4 in Murach
+  - Chapter 4: How to Test and Debug an Android App
 - Slides
   - [Your First App: Lifecycle and More](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-4-FirstAppCode+More.pptx)
   - [Your First App: Debugging](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Slides/1-Intro-5-Debugging.pptx)
@@ -61,7 +79,7 @@ Single screen Pig game with just a portrait layout
     Download this file, unzip it, then drag and drop the apk file onto your emulator to install it.
   - [Lab 2 Rubric](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/Labs/Lab02/Lab2Rubric.docx)
 
-## Menus and Themes
+## 3. Menus and Themes
 
 - Textbook
 - Carey, Tutorial 2: Developing a Web Site
@@ -69,7 +87,7 @@ Single screen Pig game with just a portrait layout
 - Example
 - Lab Assignment
 
-## Multiscreen Apps
+## 4. Multiscreen Apps
 
 - Textbook
 
@@ -89,14 +107,14 @@ Single screen Pig game with just a portrait layout
 - - [Lab 4 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab04/Lab4Instructions_W18.pdf)
   - [Lab 4 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab04/Lab4Rubric_CS195.html)
 
-## Fragments
+## 5. Fragments
 
 - Lecture Notes
 
 - - [Publishing to a Web Server, Review](https://lcc-cit.github.io/CIS195-CourseMaterials/LessonPlans/CIS195-LP-W05-D1-UploadToWebServer+Review)
   - [How to upload your site to citstudent](https://lcc-cit.github.io/CIS195-CourseMaterials/Lessons/UploadingWebSites.html)
 
-## Getting Data from the Internet
+## 6. Getting Data from the Internet
 
 (Reading XML files + Asynch Tasks)
 
@@ -123,7 +141,7 @@ Single screen Pig game with just a portrait layout
 - - [Lab 5 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab05/Lab5Instructions.pdf)
   - [Lab 5 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab05/Lab05Rubric.html)
 
-## List Views
+## 7. List Views
 
 - Textbook
 
@@ -142,7 +160,7 @@ Single screen Pig game with just a portrait layout
 - - [Lab 6 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab06/Lab6Instructions.pdf)
   - [Lab 6 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab06/Lab06Rubric.html)
 
-## SQLite Databases
+## 8. SQLite Databases
 
 - Textbook
 
@@ -155,7 +173,7 @@ Single screen Pig game with just a portrait layout
 - Lab Assignment
 
 
-## Consuming Web Services
+## 9. Consuming Web Services
 
 - Textbook
 
@@ -171,7 +189,7 @@ Single screen Pig game with just a portrait layout
 - - [Lab 8 Instructions](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab08/Lab8Instructions.pdf)
   - [Lab 8 Rubric](https://lcc-cit.github.io/CIS195-CourseMaterials/LabStarters/Lab08/Lab08Rubric.html)
 
-## Geolocation
+## 10. Geolocation
 
 - Lecture Notes
 
