@@ -31,10 +31,11 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 - Objectives
   - Understand mobile development issues
   - Install and use Android Studio
-  - Build an app
+  - Build and run an app
     - Understand app project structure
     - UI: XML Layout files, ConstraintLayout, Widgets
     - Code: subclass Activity, override onCreate, use an event listener
+    - Emulator: create and run an AVD
 - Reading
   - Textbook Chapters 1–3
     (Selected parts of 3?)
@@ -63,8 +64,11 @@ Textbook: [*Murach's Android Programming*](https://www.murach.com/shop/murach-s-
 
 - Objectives
   - Understand the activity lifecycle
-  - Save activity state
-  - Debug effectively
+  - Save activity state: shared preferences, onSaveInstanceState
+  - Test effectively
+    - What to test: UI, functionality, exception handling (invalid input)
+    - What to test on: Across required APIs and screens
+  - Debug efficiently: Breakpoints, LogCat, Toasts
 - Reading
   - Selected parts of Ch. 3 (lifecycle)?
   - Chapter 4: How to Test and Debug an Android App
