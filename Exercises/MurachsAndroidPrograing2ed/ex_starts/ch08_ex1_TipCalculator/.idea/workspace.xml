@@ -2,192 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b04daa64-f07b-42df-93e9-d3fa11fdbaa2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/androidTest/java/com/gmail/profbird/lab1_helloworld/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/java/com/gmail/profbird/lab1_helloworld/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/app/src/test/java/com/gmail/profbird/lab1_helloworld/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1HelloWorld/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/androidTest/java/com/gmail/profbird/lab1_clickcounter/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/java/com/gmail/profbird/lab1_clickcounter/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/app/src/test/java/com/gmail/profbird/lab1_clickcounter/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab01/Lab1_ClickCounter/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/libraries/Gradle__android_android_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/java/edu/uoregon/piggamelab2/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/java/edu/uoregon/piggamelab2/PigGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/die1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/die2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/die3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/die4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/die5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/die6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/drawable-mdpi/pig.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/values-v11/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/values-v14/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/Lab02/PigGameV1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/java/edu/uoregon/bbird/piggamelab3/GameFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/java/edu/uoregon/bbird/piggamelab3/GameLogic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/java/edu/uoregon/bbird/piggamelab3/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/java/edu/uoregon/bbird/piggamelab3/MainFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/die1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/die2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/die3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/die4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/die5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/die6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-mdpi/pig.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/layout/activity_two_pane_land.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/layout/fragment_game.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/layout/fragment_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/menu/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values-large-land/layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values-v11/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values-v14/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/import-summary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/PigGameV2-Fragments/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/ic_launcher-web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/libs/android-support-v4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/libs/ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/proguard-project.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/layout/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/values-v11/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/values-v14/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Labs/TideTableRelease/src/com/example/tidetablerelease/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../docs/Labs/Lab03/Lab3Instructions_CIS399.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../docs/Labs/Lab03/Lab3Instructions_CIS399.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../docs/Slides/CIS399Wk2Day3a-Themes+Styles.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../docs/Slides/CIS399Wk2Day3a-Themes+Styles.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../docs/Slides/CIS399Wk2Day3b-Menu+Settings.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../docs/Slides/CIS399Wk2Day3b-Menu+Settings.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../docs/Labs/Lab03/Lab3Rubric_CIS399.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../docs/Labs/Lab03/Lab3Rubric_CIS399.pdf" afterDir="false" />
     </list>
     <ignored path="ch08_ex1_TipCalculator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -239,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state>
+              <caret column="99" selection-start-column="99" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -503,10 +318,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09743041" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14820847" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -529,8 +344,8 @@
       <window_info anchor="bottom" id="Gradle Console" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.14449064" />
+      <window_info anchor="bottom" id="Android Profiler" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.20381232" />
       <window_info anchor="bottom" id="Logcat" order="16" />
       <window_info anchor="bottom" id="Flutter Performance" order="17" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -576,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state>
+          <caret column="99" selection-start-column="99" selection-end-column="99" />
         </state>
       </provider>
     </entry>
