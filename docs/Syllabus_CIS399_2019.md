@@ -147,25 +147,26 @@ Week 2, June 30 – July 6**
 
 **Week 3, July 7 - 13**
 
-| **Day** | **Topic**                 | **Do before class**                                          |
-| ------- | ------------------------- | ------------------------------------------------------------ |
-| M       | UI   Fragments            | Read   Ch. 9: How to Work with Fragments                     |
-| Tu      | More   on fragments       |                                                              |
-| W       | AsyncTask   Parsing   XML | Read   [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html),    Read   Ch. 10a: pg. 290 -395, 302 - 305 |
-| Th      | ListView                  | Read   Ch. 10b: pg. 314-319   *Start Lab 5: Ch. 10 Ex,   Tide Table v1* |
-| F       | SQLite   Database         | Read   Ch. 13   Read:   [Android SQLite Tutorial](http://www.vogella.com/tutorials/AndroidSQLite/article.html)   *Start Lab 6: Ch. 13 Ex,   Tide Table v2* |
-|         |                           | **Submit   Labs 5 and 6**   *See Canvas for the due date and time* |
+| **Day** | **Topic**           | **Do before class**                                          |
+| ------- | ------------------- | ------------------------------------------------------------ |
+| M       | Multi-activity apps |                                                              |
+| Tu      | UI   Fragments      | Read   Ch. 9: How to Work with Fragments                     |
+| W       |                     |                                                              |
+| Th      | ListView            | Read   Ch. 10b: pg. 314-319   *Start Lab 5: Ch. 10 Ex,   Tide Table v1* |
+| F       |                     |                                                              |
+|         |                     | **Submit   Labs 5 and 6**   *See Canvas for the due date and time* |
 
 
 
 **Week 4, July 14 - 20**
 
-| **Day** | **Topic**                                | **Do before class**                                          |
-| ------- | ---------------------------------------- | ------------------------------------------------------------ |
-| M       | Consuming   a web service                | Review   Ch. 10a: pgs. 320-328   *Start Lab 7: Ch. 10 Ex,   Tide Table v3* |
-| Tu      | Geo-location                             | Read   Ch. 18                                                |
-| W       | TBD   topic and    Lab time in classroom | *Start Lab 8: Ch. 18 Ex,   Tide Table v4*                    |
-| Th      | Lab   time in classroom                  | Work   on Term Project                                       |
-| F       | Term   Project Presentations             | **Submit   Labs 7 and 8**   **Submit   Term Project**        |
+| **Day** | **Topic**                    | **Do before class**                                          |
+| ------- | ---------------------------- | ------------------------------------------------------------ |
+| M       | AsyncTask   Parsing   XML    | Read   [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html),  Read   Ch. 10a: pg. 290 -395, 302 - 305 |
+| Tu      | Consuming   a web service    | Review   Ch. 10b: pgs. 320-328   *Start Lab 7: Ch. 10 Ex,   Tide Table v3* |
+| W       | SQLite   Database            | Read   Ch. 13   Read:   [Android SQLite Tutorial](http://www.vogella.com/tutorials/AndroidSQLite/article.html)   *Start Lab 6: Ch. 13 Ex,   Tide Table v2* |
+| Th      | Geo-location                 | Read   Ch. 18                                                |
+| F       | Term   Project Presentations | **Submit extra credit labs and term Project**                |
 
  
+
