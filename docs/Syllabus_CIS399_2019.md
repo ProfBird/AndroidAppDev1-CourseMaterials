@@ -5,7 +5,7 @@
  Office: 162 Deschutes Hall
  Office hours: 1:00 to 1:50 Monday through Friday 
 
- ![img](file:////Users/admin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+<img src="Images/AndroidPie.jpg" alt="Android Pie" align="left" width="50%">
 
 ### Course Description
 
@@ -17,9 +17,9 @@ Design the core logic for a mobile software application. Write, debug, and test 
 
 ### CIS 399 Workload
 
-Since this is a 4-week class, we will be meeting five times a week for a total of 8 lecture hours and 2 hours of lab (in the same classroom as the lecture). You should expect to spend approximately 20 hours a week reading, studying and programming outside of scheduled class/lab times.
+Since this is a 4-week class, we will be meeting five times a week for a total of 8 lecture hours and 2 hours of lab (in the same classroom as the lecture). You should expect to spend approximately 20 hours a week reading, studying and doing programming projects (writing apps) outside of scheduled class/lab times.
 
-It will be extremely important to keep up with the reading and the programming assignments. If you find yourself falling behind, contact the instructor for help immediately- before it is too late.
+It will be extremely important to keep up with the reading and the programming assignments. If you find yourself falling behind, contact the instructor for help immediately—before it is too late.
 
 ###Required Textbook
 
@@ -35,17 +35,17 @@ You are expected to use your own computer to complete the assignments for this c
 
 **Android Studio:** You can download Android Studio, which includes the Android SDK (for Windows, Linux or OS-X) here: [http://developer.android.com/sdk/](http://developer.android.com/sdk/index.html). The Android Studio setup program will install everything you need to develop Android applications: the IDE, the Android SDK and Platform tools, an Android emulator and system images.
 
-**Java Development Kit:** The latest version of [Open JDK](https://developer.android.com/studio/intro/studio-config.html#jdk) will be installed with Android Studio. 
+**Java Development Kit:** The latest version of [Open JDK](https://developer.android.com/studio/intro/studio-config.html#jdk) will be installed by the Android Studio setup program. 
 
 ###Course Grade
 
 ```
  
-Term project .... 50%
-Lab assignments ........ 50%
+Term project ..... 50%
+Lab assignments .. 50%
 ```
 
-There are 7 Lab assignments which constitute 50% of your grade. The last lab assignment, lab 8, is optional extra credit. There is a term programming project which comprises the other 50% of your grade. Your grade is based on weighted percentages, *not* total points using the standard grade scale shown below.
+There are 6 Lab assignments which constitute 50% of your grade. The are two optional assignments, labs 7 and 8, for extra credit. There is a term programming project which comprises the other 50% of your grade. Your grade is based on weighted percentages, *not* total points using the standard grade scale shown below.
 
 | **Letter** | **-**      |           | **+**      |
 | ---------- | ---------- | --------- | ---------- |
@@ -63,12 +63,12 @@ There are 7 Lab assignments which constitute 50% of your grade. The last lab ass
 | ----- | ------------------ | ------------------------------------------------------------ |
 | **1** | Click Counter      | Android studio, emulator, xml layouts, widgets, event   handler |
 | **2** | Pig Game v1        | Constraint layout, separation of concerns, saving state      |
-| **3** | Pig Game v2        | Changing layouts with orientation, menus, PreferenceFragment   / PreferenceActivity, saving state |
-| **4** | Pig Game v3        | Multiple activities, fragments, accessing objects in   another activity or fragment |
-| **5** | Tide Prediction v1 | ListViews, list adapters, parsing an XML file                |
-| **6** | Tide Prediction v2 | SQLite database, cursor adapter for ListViews                |
-| **7** | Tide Prediction v3 | Consuming a REST service, AsynchTask                         |
-| **8** | Tide Prediction v4 | Geolocation (optional, extra credit)                         |
+| **3** | Pig Game v2        | Changing layouts with orientation, menus, PreferenceFragment, or PreferenceActivity, saving state |
+| **4** | Pig Game v3        | Multiple activities, sending data to another activity        |
+| **5** | Pig Game v4        | Fragments, accessing an object in a different fragment       |
+| **6** | Tide Prediction v1 | ListViews, list adapters, consuming a REST service, AsynchTask |
+| **7** | Tide Prediction v2 | SQLite database, cursor adapter for ListViews (optional, extra credit) |
+| **8** | Tide Prediction v3 | Geolocation (optional, extra credit)                         |
 
  
 
@@ -76,19 +76,19 @@ There are 7 Lab assignments which constitute 50% of your grade. The last lab ass
 
 The project will be due the day scheduled for the final exam (there will not be a final exam). You may choose to make any app you like, but it must not be the same as an app in the textbook or one of the instructor’s example apps. The application must have the following: 
 
-- At      least 5 kinds of widgets
-- A      menu with at least 2 items
-- At      least 2 activities with an “up” navigation button on one of the activities
-- Different      layouts for landscape and portrait orientation (using fragments is      optional)
-- Persist      activity state when rotating
+- At least 5 kinds of widgets.
+- A menu with at least 2 items.
+- At least 2 activities with an “up” navigation button on one of the activities.
+- Different layouts for landscape and portrait orientation (using fragments is optional).
+- Persist  activity state when rotating.
 
 Near the middle of the term you will submit a proposal for your term project. Your proposal should be in a single document, nicely formatted and include:
 
-·      At least a two-paragraph description of the app
+- At least a two-paragraph description of the app.
 
-·      A bulleted list of features
+- A bulleted list of features.
 
-·      UI diagrams for the activities and/or fragments that identify the type and function of the UI widgets
+- UI diagrams for the activities and/or fragments that identify the type and function of the UI widgets.
 
  
 
@@ -99,8 +99,6 @@ Near the middle of the term you will submit a proposal for your term project. Yo
 **Final Project Due:** Week 4, Friday, July 19; end of the four-week term.
 
 ​    
-
- 
 
 ###Universal Learning Environment
 
@@ -115,7 +113,7 @@ The University of Oregon, the CIS department and I are all working to create inc
 
 **Attendance:** It is essential to attend every class session in order to succeed in this course, but no grade will be given for attendance.
 
-**Late Assignments: No late programming projects will be accepted, although there will be a quasi-grace period between the due date and the beginning of the first class of the week. Assignments submitted during that time will have 10% deducted from the grade. Assignments won’t be accepted after the beginning of class. Partial credit will be given for projects that are partially completed.**
+**Late Assignments: *No late programming projects will be accepted, although there will be a quasi-grace period between the due date and the beginning of the first class of the week. Assignments submitted during that time will have 10% deducted from the grade. Assignments won’t be accepted after the beginning of class. Partial credit will be given for projects that are partially completed.***
 
 **Academic Honesty:** While students are encouraged to discuss lab assignments and to use each other as resources, each student is responsible for his/her own work. In other words, you can help each other, but you can’t copy any part of someone else’s work. The end product must be each student’s own individual work.
 
@@ -140,10 +138,10 @@ Week 2, June 30 – July 6**
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | M       | More   on Layouts and Widgets   Changing   layouts with orientation | Ch.   5: How to Work with Layouts and Widgets                |
 | Tu      | More   on UI Events                                          | Read   Ch. 6: How to Handle Events                           |
-| W       | Themes   and styles   Activity   lifecycle, persisting state | Skim   Ch. 7, read [Styles   and Themes](http://developer.android.com/guide/topics/ui/themes.html)   *Start Lab 3: Ch. 6,   7, 8 Ex, Pig Game v2* |
+| W       | Themes   and styles   Activity   lifecycle, persisting state | Skim   Ch. 7: How to work with Themes and Styles, read [Styles   and Themes](http://developer.android.com/guide/topics/ui/themes.html), *Start Lab 3: Ch. 6,   7, 8 Ex, Pig Game v2* |
 | Th      | Independence   Day Holiday                                   | No   class                                                   |
 | F       | Menus,   Preferences   Launching   new Activities   Pass   data with an Intent | Read   Ch. 8: How to Work with Menus and Preferences   Read   Ch. 10, pg. 320-321: How to work with intents   *Start Lab 4: Ch. 9 Ex, Pig   Game v3* |
-|         |                                                              | **Submit   Lab 3: landscape layout, menu, settings**   **Submit   Lab 4:**    **Submit   a Term Project Proposal**    *See Canvas for the due date and time* |
+|         |                                                              | **Submit lab 3 and a Term Project Proposal**. *See Canvas for the due date and time* |
 
 
 
