@@ -1,11 +1,11 @@
 ### ­CIS 399 Android Application Development  Syllabus Summer 2019
 
-**Instructor: Brian Bird** 
- E-mail: [bbird@uoregon.edu](mailto: bbird@uoregon.edu)
- Office: 162 Deschutes Hall
- Office hours: 1:00 to 1:50 Monday through Friday 
+**Instructor: Brian Bird**  
+ E-mail: [bbird@uoregon.edu](mailto: bbird@uoregon.edu)  
+ Office: 162 Deschutes Hall  
+ Office hours: 1:00 to 1:50 Monday through Friday  
 
-<img src="Images/AndroidPie.jpg" alt="Android Pie" align="left" width="50%">
+![Android and Pie](Images/AndroidPie.jpg)
 
 ### Course Description
 
@@ -136,11 +136,11 @@ Week 2, June 30 – July 6**
 
 | **Day** | **Topic**                                                    | **Do before class**                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| M       | More   on Layouts and Widgets   Changing   layouts with orientation | Ch.   5: How to Work with Layouts and Widgets                |
-| Tu      | More   on UI Events                                          | Read   Ch. 6: How to Handle Events                           |
-| W       | Themes   and styles   Activity   lifecycle, persisting state | Skim   Ch. 7: How to work with Themes and Styles, read [Styles   and Themes](http://developer.android.com/guide/topics/ui/themes.html), *Start Lab 3: Ch. 6,   7, 8 Ex, Pig Game v2* |
-| Th      | Independence   Day Holiday                                   | No   class                                                   |
-| F       | Menus,   Preferences   Launching   new Activities   Pass   data with an Intent | Read   Ch. 8: How to Work with Menus and Preferences   Read   Ch. 10, pg. 320-321: How to work with intents   *Start Lab 4: Ch. 9 Ex, Pig   Game v3* |
+| M       | More   on Layouts and Widgets   Changing   layouts with orientation | Ch. 5: How to Work with Layouts and Widgets                  |
+| Tu      | More   on UI Events                                          | Read Ch. 6: How to Handle Events                             |
+| W       | Themes   and styles   Activity   lifecycle, persisting state | Skim Ch. 7: How to work with Themes and Styles, read [Styles and Themes](http://developer.android.com/guide/topics/ui/themes.html), *Start Lab 3: Ch. 6, 7, 8 Ex, Pig Game v2* |
+| Th      | Independence   Day Holiday                                   | No class                                                     |
+| F       | Menus,   Preferences   Launching   new Activities   Pass   data with an Intent | Read Ch. 8: How to Work with Menus and Preferences   Read Ch. 10, pg. 320-321: How to work with intents |
 |         |                                                              | **Submit lab 3 and a Term Project Proposal**. *See Canvas for the due date and time* |
 
 
@@ -149,12 +149,12 @@ Week 2, June 30 – July 6**
 
 | **Day** | **Topic**           | **Do before class**                                          |
 | ------- | ------------------- | ------------------------------------------------------------ |
-| M       | Multi-activity apps |                                                              |
-| Tu      | UI   Fragments      | Read   Ch. 9: How to Work with Fragments                     |
+| M       | Multi-activity apps | *Start Lab 4: Pig Game v3*                                   |
+| Tu      | UI   Fragments      | Read Ch. 9: How to Work with Fragments. *Start Lab 5: Ch. 9 Ex, PIg game v4* |
 | W       |                     |                                                              |
-| Th      | ListView            | Read   Ch. 10b: pg. 314-319   *Start Lab 5: Ch. 10 Ex,   Tide Table v1* |
+| Th      | ListView            | Read Ch. 10b: pg. 314-319                                    |
 | F       |                     |                                                              |
-|         |                     | **Submit   Labs 5 and 6**   *See Canvas for the due date and time* |
+|         |                     | **Submit Labs 5 and 6**   *See Canvas for the due date and time* |
 
 
 
@@ -162,11 +162,10 @@ Week 2, June 30 – July 6**
 
 | **Day** | **Topic**                    | **Do before class**                                          |
 | ------- | ---------------------------- | ------------------------------------------------------------ |
-| M       | AsyncTask   Parsing   XML    | Read   [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html),  Read   Ch. 10a: pg. 290 -395, 302 - 305 |
-| Tu      | Consuming   a web service    | Review   Ch. 10b: pgs. 320-328   *Start Lab 7: Ch. 10 Ex,   Tide Table v3* |
-| W       | SQLite   Database            | Read   Ch. 13   Read:   [Android SQLite Tutorial](http://www.vogella.com/tutorials/AndroidSQLite/article.html)   *Start Lab 6: Ch. 13 Ex,   Tide Table v2* |
-| Th      | Geo-location                 | Read   Ch. 18                                                |
+| M       | AsyncTask   Parsing   XML    | Read [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html), Read Ch. 10a: pg. 290 -395, 302 - 305 |
+| Tu      | Consuming   a web service    | Review Ch. 10b: pgs. 320-328. *Start Lab 6: Ch. 10 Ex, Tide Table v1* |
+| W       | SQLite   Database            | Read Ch. 13 Read:   [Android SQLite Tutorial](http://www.vogella.com/tutorials/AndroidSQLite/article.html) |
+| Th      | Geo-location                 | Read Ch. 18                                                  |
 | F       | Term   Project Presentations | **Submit extra credit labs and term Project**                |
 
  
-
