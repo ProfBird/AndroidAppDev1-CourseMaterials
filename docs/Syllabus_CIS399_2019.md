@@ -147,25 +147,25 @@ Week 2, June 30 – July 6**
 
 **Week 3, July 7 - 13**
 
-| **Day** | **Topic**           | **Do before class**                                          |
-| ------- | ------------------- | ------------------------------------------------------------ |
-| M       | Multi-activity apps | *Start Lab 4: Pig Game v3*                                   |
-| Tu      | UI   Fragments      | Read Ch. 9: How to Work with Fragments. *Start Lab 5: Ch. 9 Ex, PIg game v4* |
-| W       |                     |                                                              |
-| Th      | ListView            | Read Ch. 10b: pg. 314-319                                    |
-| F       |                     |                                                              |
-|         |                     | **Submit Labs 5 and 6**   *See Canvas for the due date and time* |
+| **Day** | **Topic**                 | **Do before class**                                          |
+| ------- | ------------------------- | ------------------------------------------------------------ |
+| M       | Multi-activity apps       | *Start Lab 4: Pig Game v3*                                   |
+| Tu      | UI   Fragments            | Read Ch. 9: How to Work with Fragments. *Start Lab 5: Ch. 9 Ex, PIg game v4* |
+| W       |                           |                                                              |
+| Th      | ListView                  | Read Ch. 10b: pg. 314-319                                    |
+| F       | Consuming   a web service | Review Ch. 10b: pgs. 320-328. *Start Lab 6: Ch. 10 Ex, Tide Table v |
+|         |                           | **Submit Labs 4 and 5**   *See Canvas for the due date and time* |
 
 
 
 **Week 4, July 14 - 20**
 
-| **Day** | **Topic**                    | **Do before class**                                          |
+| **Day** | **Topic**                    | **Do the reading before class**                              |
 | ------- | ---------------------------- | ------------------------------------------------------------ |
 | M       | AsyncTask   Parsing   XML    | Read [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html), Read Ch. 10a: pg. 290 -395, 302 - 305 |
-| Tu      | Consuming   a web service    | Review Ch. 10b: pgs. 320-328. *Start Lab 6: Ch. 10 Ex, Tide Table v1* |
-| W       | SQLite   Database            | Read Ch. 13 Read:   [Android SQLite Tutorial](http://www.vogella.com/tutorials/AndroidSQLite/article.html) |
-| Th      | Geo-location                 | Read Ch. 18                                                  |
+| Tu      | SQLite   Database            | Read Ch. 13 Read:   [Android SQLite Tutorial](http://www.vogella.com/tutorials/AndroidSQLite/article.html) |
+| W       | Geo-location                 | Read Ch. 18, **Submit Lab 6**   *See Canvas for the due date and time* |
+| Th      | TBD                          |                                                              |
 | F       | Term   Project Presentations | **Submit extra credit labs and term Project**                |
 
  
