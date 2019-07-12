@@ -151,8 +151,8 @@ Week 2, June 30 – July 6**
 | ------- | ------------------------- | ------------------------------------------------------------ |
 | M       | Multi-activity apps       | *Start Lab 4: Pig Game v3*                                   |
 | Tu      | UI   Fragments            | Read Ch. 9: How to Work with Fragments. *Start Lab 5: Ch. 9 Ex, PIg game v4* |
-| W       |                           |                                                              |
-| Th      | ListView                  | Read Ch. 10b: pg. 314-319                                    |
+| W       | ListView                  | Read Ch. 10b: pg. 314-319                                    |
+| Th      | RecyclerView              | [Create a List with a RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview) |
 | F       | Consuming   a web service | Review Ch. 10b: pgs. 320-328. *Start Lab 6: Ch. 10 Ex, Tide Table v |
 |         |                           | **Submit Labs 4 and 5**   *See Canvas for the due date and time* |
 
