@@ -1,4 +1,5 @@
 **Lab 1 – Your First App**
+
 CS235AM, Intermediate Mobile Application Development: Android
 
 ------
@@ -12,6 +13,7 @@ The purpose of this lab is to give you practice:
 **Exercises**
 
 Do the textbook exercises shown below:
+
 *Note: Use the Empty Activity template, and set the API level to 19.*
 
 - 2-1, Create a Hello World app and modify its UI layout according to the instructions. You will just be changing what's there, not adding any new widgets.
