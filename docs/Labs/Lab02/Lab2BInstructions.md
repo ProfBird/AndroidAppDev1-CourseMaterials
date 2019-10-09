@@ -36,7 +36,7 @@ Create an app for playing a version of the dice game "Pig".
 
 The UI for your game should be similar to the one shown below:
 
-![Pig game portrait layout](PigUILayout.png)
+![Pig game portrait layout](PigUiLayout.png)
 
 In the “Little Pig” version, two players will take turns rolling one die as many times as they wish or until they roll a 1. When they roll a 1, the “Roll Die” button should be disabled, re-enable it when the next player starts their turn. Their score for the turn is the sum of their rolls unless they get a 1, then it’s zero. Players keep taking turns rolling until someone gets to 100. If the player rolling first reaches 100, the second player may still take their turn. The player with the highest score wins.
 
