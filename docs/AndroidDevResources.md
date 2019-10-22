@@ -29,7 +29,7 @@
 - Textbook: *Murach's Android Programming, 2nd Ed.*, Joel Murach, Murach Books, 2015
   - [Publisher's web page for this book](https://www.murach.com/shop/murach-s-android-programming-2nd-edition-detail)
 - [Updated Murach code on GitHub](https://github.com/ProfBird/MurachAndroidCode)
-  [Instructor's App Examples on GitHub](https://github.com/ProfBird/AndroidAppExamples-Java)
-- [Course outline](CS235AM-CourseMaterials/)
-- [Source code for instructor's Android app examples](https://github.com/ProfBird/AndroidAppExamples-Java)
+  
+- [Course outline](https://profbird.github.io/AndroidAppDev1-Java-CourseMaterials/)
+- [Source code for instructor's Android app examples on GitHub](https://github.com/ProfBird/AndroidAppExamples-Java)
 
