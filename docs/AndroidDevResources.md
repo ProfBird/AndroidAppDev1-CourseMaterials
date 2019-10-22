@@ -1,6 +1,6 @@
-## Useful Links
+#Useful Links
 
-***Links related to Android Development.***
+##Android Development
 
 - **Android Developer page**: [developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html)
 - - [Android API Levels](http://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels)
@@ -14,4 +14,22 @@
 - Let's Talk about ADB (Android Debug Bridge): [xda-developers.com/android/lets-talk-about-adb](http://www.xda-developers.com/android/lets-talk-about-adb/)
 - **GenyMotion**- An alternate to the emulator provided by Google: [http://www.genymotion.com](http://www.genymotion.com/)
 - Free version of GenyMotion: https://www.genymotion.com/fun-zone/
+
+
+
+## Java
+
+- [Oracle's Java Tutorials
+  ](https://docs.oracle.com/javase/tutorial/)
+
+
+
+## Course Materials
+
+- Textbook: *Murach's Android Programming, 2nd Ed.*, Joel Murach, Murach Books, 2015
+  - [Publisher's web page for this book](https://www.murach.com/shop/murach-s-android-programming-2nd-edition-detail)
+- [Updated Murach code on GitHub](https://github.com/ProfBird/MurachAndroidCode)
+  [Instructor's App Examples on GitHub](https://github.com/ProfBird/AndroidAppExamples-Java)
+- [Course outline](CS235AM-CourseMaterials/)
+- [Source code for instructor's Android app examples](https://github.com/ProfBird/AndroidAppExamples-Java)
 
