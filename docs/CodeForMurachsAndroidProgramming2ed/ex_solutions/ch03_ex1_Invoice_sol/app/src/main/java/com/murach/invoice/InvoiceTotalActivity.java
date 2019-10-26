@@ -1,15 +1,15 @@
 package com.murach.invoice;
 
-import java.text.NumberFormat;
-
+import android.app.Activity;
+import android.content.SharedPreferences;
+import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
-import android.app.Activity;
-import android.content.SharedPreferences;
-import android.content.SharedPreferences.Editor;
+
+import java.text.NumberFormat;
 
 public class InvoiceTotalActivity extends Activity 
 implements OnEditorActionListener {
@@ -42,7 +42,7 @@ implements OnEditorActionListener {
 	public void onPause() {
 		Editor editor = savedValues.edit();
 		editor.putString("subtotalString", subtotalString);
-		editor.commit();
+		editor.apply();
 
 		super.onPause();
 	}
