@@ -31,7 +31,7 @@ In this lab you will modify your app to use fragments. You will have two fragmen
 
 2. The UI for game-play (similar to the main activity in the previous lab). The up button on will take the user back to the opening screen.
 
-![](/Users/birdb/Projects/AndroidAppDev1-Java-CourseMaterials/Docs/Labs/Lab05/FragmentPigUiLayout.png)
+![](FragmentPigUiLayout.png)
 
 - The up button will  only be needed when fragment 2 is displayed by itself in a separate activity.  
 - In fragment 2, the player’s name for the current turn will need to be displayed.
@@ -41,7 +41,7 @@ In this lab you will modify your app to use fragments. You will have two fragmen
 
 
 
-![](/Users/birdb/Projects/AndroidAppDev1-Java-CourseMaterials/Docs/Labs/Lab05/Fragments.png)
+![](Fragments.png)
 
 - On a small screen, in portrait orientation, only one of these two fragments will be displayed at a time, each in its own activity.
 - On a large screen, in portrait orientation the fragments will be  displayed one above the other. 
