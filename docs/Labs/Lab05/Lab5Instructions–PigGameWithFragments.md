@@ -47,6 +47,26 @@ In this lab you will modify your app to use fragments. You will have two fragmen
 - On a large screen, in portrait orientation the fragments will be  displayed one above the other. 
 - In landscape  orientation, the fragments will be displayed side-by-side. 
 
+### Submission to the LMS
+
+**Beta Version**
+
+Post the following to the Beta + Code Review Forum:
+
+1)    For part 1: A document containing screen-shots of the tutorial app with each screen-shot labeled. (Please use .docx or .pdf format.)
+
+2)   For part 2:  A zip file containing your app’s Android Studio project folder. (Make your solution smaller by deleting the *build*  folder.)   
+Or, better yet, a link to a repository containing your solution source code. (You can put the link on the same document with the screen-shots for part 1.)
+
+3)   A copy of your lab instructions (so the lab partner who reviews your work will know what the requirements were for your app).
+
+ 
+
+**Production Version**
+
+1. Items 1 and 2 above, but revised as needed.
+2. The code review of your work (the one done by your lab partner) with the second column, *Release*, completed by you.
+
 
 
 ------
