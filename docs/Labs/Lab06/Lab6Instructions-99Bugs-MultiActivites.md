@@ -12,7 +12,7 @@ This lab will give you practice creating a multi-screen (multi-activity) applica
 
 - Using activity life-cycle call-back methods: onCreate and onResume.
 
-- Using an ActionBar with “up” navigation to return to a “parent” activity.
+- Returning a value from an activity.
 
 
 
@@ -30,7 +30,7 @@ This lab will give you practice creating a multi-screen (multi-activity) applica
      Get the message using onActivityResult.
 
 
-![](/Users/birdb/Projects/AndroidAppDev1-Java-CourseMaterials/docs/Labs/Lab06/Picture1.png)
+![](Picture1.png)
 
  
 

@@ -12,7 +12,7 @@ This lab will give you practice creating a multi-screen (multi-activity) applica
 
 - Using activity life-cycle call-back methods: onCreate and onResume.
 
-- Using an ActionBar with “up” navigation to return to a “parent” activity.
+- Returning a value from an activity.
 
 
 
@@ -20,31 +20,29 @@ This lab will give you practice creating a multi-screen (multi-activity) applica
 
 - Add a button with the text “Door Number 1”
 
-- - In the event handler, send an intent to Activity2 with an int value set to 1.
+  - In the event handler, send an intent to Activity2 with an int value set to 1.
 
 - Add a button with the text “Door Number 2”
 
-- - In the event handler, send an intent to Activity2 with an int value set to 2.
+  - In the event handler, send an intent to Activity2 with an int value set to 2.
 
 - Add a button with the text “Door Number 3”
 
-- - In the event handler, send an intent to Activity2 with an int value set to 3.
+  - In the event handler, send an intent to Activity2 with an int value set to 3.
           
-    ![Picture1B](/Users/birdb/Projects/AndroidAppDev1-Java-CourseMaterials/docs/Labs/Lab06/Picture1B.png)
+    ![Picture1B](Picture1B.png)
 
 3. Add a second Activity
-
-- Add an ActionBar with an “up” button.
 
 - Add a TextView with the text: “Behind door number __ is a:” using the number from the intent in place of t he blank
 
 - Generate a random number between 1 and 3
 
-- - Based on the random number append the text: “brand new Prius”, “goat”, or “skunk” in the TextView. (You can also make up your own prizes.)
+  - Based on the random number append the text: “brand new Prius”, “goat”, or “skunk” in the TextView. (You can also make up your own prizes.)
 
-  - Send the prize name back to the first acitivty and replace the "Door Number N" text with the prize name.
+- Add a button that will send the prize name back to the first acitivty and replace the "Door Number N" text with the prize name.
 
-    ![Picture2B](/Users/birdb/Projects/AndroidAppDev1-Java-CourseMaterials/docs/Labs/Lab06/Picture2B.png)
+  
 
 ### Submission to the LMS
 
