@@ -46,7 +46,7 @@ The “Big Pig” version of the game is a dice game with 2 players and one die,
 - Images will be provided for each side of the die.
 - Provide different layouts for landscape and portrait orientation
 - Use the names entered in the editable text views for Player 1 and Player 2 to display the name of the player whose turn it is.
-- Disable the roll die button when an 8 is rolled
+- Disable the roll die button when an 8 is rolled.
 - Write a separate Pig class that will contain the logic for the game.
 - Optional: Use a Frame Layout to hold a background image for the app (you can provide your own image).
 
